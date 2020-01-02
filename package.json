@@ -1,0 +1,17 @@
+{
+  "name": "node_farm",
+  "version": "1.0.0",
+  "description": "Test project on Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Achintha Dilesha",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.3.6"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2"
+  }
+}
